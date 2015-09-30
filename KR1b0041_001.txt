@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書砭蔡編
-#+DATE: 2015-09-23 09:36:14
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:03:16.575823
+#+PROPERTY: ID KR1b0041
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 尚書砭蔡編
 <pb:KR1b0041_WYG_001-1a>¶
 欽定四庫全書¶
 　尚書砭蔡編¶
@@ -762,4 +764,3 @@
 　雖治天下亦不過此書以秦誓終雖謂其不愧典謨¶
 　可也¶
 　尚書砭蔡編¶
-
